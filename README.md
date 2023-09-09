@@ -82,3 +82,33 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1198560751)](https://github.com/anuraghazra/github-readme-stats)
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
+
+这些工具：
+
+- [codeck](https://codeck.moonrailgun.com/)：一个可视化的js编程工具，灵感来自虚幻蓝图。
+- [webbox](https://github.com/msgbyte/webbox)：整理你最喜欢的网站。
+- [lafdrop](https://github.com/moonrailgun/lafdrop)：laf中的Snapdrop。使用P2P传输文件。
+- [source-ref](https://sourceref.moonrailgun.com/)：帮助您快速找到源代码的工具。支持`React`（或其他jsx语言），`Vue`，并与`vscode`，`jetbrains`，`github`一起工作。
+- [webpack-stats-viewer](https://github.com/moonrailgun/webpack-stats-viewer)：一个带表格的webpack分析工具，清晰详细。很容易找到为什么我们将文件捆绑成块。
+- [ts-restruct](https://github.com/moonrailgun/ts-restruct)：重新构造你的ts项目。
+- [node-modules-vision](https://node-modules-vision.moonrailgun.com/)：一个可以通过G6检查你的`node_modules`依赖关系的工具。
+- [branch-filestorage-action](https://github.com/moonrailgun/branch-filestorage-action)：Github操作，可以将本地文件推送到分支中。
+- [github-profile](https://github.com/moonrailgun/github-profile)：一个有趣的配置文件标签，用于Github和Chrome扩展。
+- [become-waifu](https://github.com/moonrailgun/become-waifu)：一个Chrome扩展，可以在网站的任何媒体流中使用`live2d`模型进行facerig。
+- [nbnhhsh-crx](https://github.com/moonrailgun/nbnhhsh-crx)：一个Chrome扩展 [nbnhhsh的](https://github.com/itorr/nbnhhsh).
+- [Otaku-for-Chrome](https://github.com/moonrailgun/Otaku-for-Chrome)：一个覆盖默认newtab页面的Chrome扩展程序。
+- [devbox](https://github.com/moonrailgun/devbox)：一个程序员工具包。
+
+这些图书馆：
+
+- [涂山](https://tushan.msgbyte.com/)：5分钟搭建你的`Admin`平台！
+- [mini-star](https://ministar.moonrailgun.com/)：一个微内核框架，可以将你的项目插件化。渐进式迁移！
+- [飞碟](https://github.com/moonrailgun/saucer)：一个布局编辑器的拖放。做低代码。
+- [eventemitter-strict](https://github.com/moonrailgun/eventemitter-strict)：一个对类型脚本友好的发布-订阅库。
+- [react-fastify-form](https://github.com/moonrailgun/react-fastify-form)：基于Meta的react表单库，快速构建表单组件。
+- [snowpack-plugin-replace](https://github.com/moonrailgun/snowpack-plugin-replace)：Snowpack替换插件。
+- [svrx-plugin-parcel](https://github.com/moonrailgun/svrx-plugin-parcel)：parcel的svrx插件
+- [chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator)：一个中文假地址生成器（支持level 4）
+- [str2int](https://github.com/moonrailgun/str2int)：将字符串编码为int
+
+
