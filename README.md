@@ -1,3 +1,5 @@
+![op](https://github.com/darjidhruv26/darjidhruv26/assets/90086813/aec64cc2-5d0d-406d-885d-312a46471be6)
+
 ### Hi there 👋<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Recently I'm coding in...
