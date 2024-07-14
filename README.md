@@ -10,6 +10,9 @@
   <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
 </a>
 
+<a href="https://www.credly.com/badges/949a2366-bc3d-4696-ba8c-3c81bb508fc1/public_url">
+    <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="600" height="600" alt="Badge">
+</a>
 
 
 ---
