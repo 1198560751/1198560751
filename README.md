@@ -8,7 +8,7 @@
     <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="200" height="200" alt="Badge">
 </a>
 <a href="https://www.credly.com/badges/d254069c-46f9-4881-9bdb-463ed778761d/public_url">
-    <img src="https://images.credly.com/size/220x220/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" width="200" height="200" alt="Badge">
+    <img src="https://images.credly.com/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" width="200" height="200" alt="Badge">
 </a>
 
 <a href="https://codestats.net/users/WEGFan">
